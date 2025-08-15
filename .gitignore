@@ -1,0 +1,41 @@
+# Gradio
+.gradio-cache
+
+# PyTorch
+results
+checkpoints
+__pycache__
+*.pyc
+*.pyo
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+*.pyc
+*.pyd
+*.pyo
+*.pyw
+*.pyz
+*.egg
+*.egg-info
+dist
+build
+.eggs
+.cache
+__pycache__
+pytest_cache
+.pytest_cache
+
+# Virtual Env
+venv
+env
+.venv
+.env
+
+# Misc
+.DS_Store
+.idea
+.history/
